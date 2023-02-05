@@ -1,0 +1,15 @@
+{
+  "token": "",
+  "prefix": "c!",
+  "BOT_OWNER": "",
+  "footer": "Count On",
+  "discord": "https://discord.gg/wvxkkJp6c6",
+  "invite": "",
+
+  "Colors": {
+    "Bot": "#7367f0",
+    "red": "#FF0000",
+    "green": "#008000",
+    "yellow": "#FFFF00"
+  }
+}
