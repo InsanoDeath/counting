@@ -1,10 +1,10 @@
 {
-  "token": "ODIyMDgxNTYxNTc4MDQ1NDgx.YFNFHQ.HzXLfUBHt3vBzsUB0FR0jUVV1vo",
+  "token": "",
   "prefix": "c!",
-  "BOT_OWNER": "539738942346493952",
+  "BOT_OWNER": "",
   "footer": "Count On",
   "discord": "https://discord.gg/wvxkkJp6c6",
-  "invite": "https://discord.com/api/oauth2/authorize?client_id=878206190994198538&permissions=536996944&scope=bot%20applications.commands",
+  "invite": "",
 
   "Colors": {
     "Bot": "#7367f0",
